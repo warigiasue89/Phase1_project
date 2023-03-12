@@ -44,7 +44,7 @@ Importing of Libraries
 
 - Used the gross profit to determine the company's gain from the movie production
 - The profit margin was to show the efficiency of the profits to the company
-- calculating Worldwide Gross Profit and Gross Profit Margin
+- Calculating Worldwide Gross Profit and Gross Profit Margin
 ### profit gross analysis
 ![Gross profit and earnings](https://user-images.githubusercontent.com/125992952/224552071-65486276-ba11-42f4-b1e7-057b311607cd.png)
 
@@ -72,7 +72,7 @@ This is by comparing the cost of production of a movie and the gross profit made
 
 ![Genre Ratings](https://user-images.githubusercontent.com/125992952/224552011-0efc283a-43d1-4800-8130-4978952fa9a9.png)
 
-###### genre rating analysis
+###### Genre rating analysis
 - The highest rated genre is pure drama and this would only mean it the most prefered genre by the views.
 
 ###### Recommendation
