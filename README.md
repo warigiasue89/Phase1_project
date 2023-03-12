@@ -1,4 +1,6 @@
 # PHASE_1 PROJECT
+![pexels-donald-tong-66134](https://user-images.githubusercontent.com/125992952/224551945-3b281375-25aa-48a1-adea-da571499cc3b.jpg)
+
 ## Project Information
 Susan Warigia
 Data Science Fulltime
@@ -44,7 +46,7 @@ Importing of Libraries
 - The profit margin was to show the efficiency of the profits to the company
 - calculating Worldwide Gross Profit and Gross Profit Margin
 ### profit gross analysis
-![Gross profit and earnings.png](/Gross profit and earnings.png)
+![Gross profit and earnings](https://user-images.githubusercontent.com/125992952/224552071-65486276-ba11-42f4-b1e7-057b311607cd.png)
 
 -The worldwide gross is significantly much more than the domestic gross and is it can be seen even for the profit generated after selling worldwide is much greater.
 The cost of production doesn't change regardless of where the movie will sell.
@@ -54,7 +56,7 @@ The cost of production doesn't change regardless of where the movie will sell.
 
 ### Return On Investment
 - Return On Investments will help compare the potential profitability of different investment in this case being Movies production.
-![ROI Analysis.png](/ROI Analysis.png)
+![ROI Analysis](https://user-images.githubusercontent.com/125992952/224552096-fc154521-a5a0-4065-bd03-59c54965fb7d.png)
 
 ###### ROI Analysis
 
@@ -68,7 +70,7 @@ This is by comparing the cost of production of a movie and the gross profit made
 #### Genre Rating
 - This will help get the best rated genre to compare with their production budget
 
-![Genre Ratings.png](/Genre Ratings.png)
+![Genre Ratings](https://user-images.githubusercontent.com/125992952/224552011-0efc283a-43d1-4800-8130-4978952fa9a9.png)
 
 ###### genre rating analysis
 - The highest rated genre is pure drama and this would only mean it the most prefered genre by the views.
@@ -81,7 +83,7 @@ This is by comparing the cost of production of a movie and the gross profit made
 
 - This helps the firm get a preview of how much a movie made and what they did unique
 
-![Best 50 movies.png](/Best 50 movies.png)
+![Best 50 movies](https://user-images.githubusercontent.com/125992952/224552157-282661af-69e4-4462-b6ea-bd2dd2a75990.png)
 
 ##### Best movies Analysis
 
