@@ -48,11 +48,11 @@ Importing of Libraries
 ### profit gross analysis
 ![Gross profit and earnings](https://user-images.githubusercontent.com/125992952/224552071-65486276-ba11-42f4-b1e7-057b311607cd.png)
 
--The worldwide gross is significantly much more than the domestic gross and is it can be seen even for the profit generated after selling worldwide is much greater.
+- The worldwide gross is significantly much more than the domestic gross and is it can be seen even for the profit generated after selling worldwide is much greater.
 The cost of production doesn't change regardless of where the movie will sell.
 
 #####  profit gross analysis recommendation
--The movie made should target the global market to maximize on the profit since even when the market was domestic the cost of production remained the same.
+- The movie made should target the global market to maximize on the profit since even when the market was domestic the cost of production remained the same.
 
 ### Return On Investment
 - Return On Investments will help compare the potential profitability of different investment in this case being Movies production.
@@ -91,8 +91,8 @@ This is by comparing the cost of production of a movie and the gross profit made
 
 ##### Recomendations
 
-- The Micrsoft studio can capitalize on making a good quality movie as it may lead to sales and hence better profit margins.
+- The Micrsoft studio can capitalize on making a good quality movie as it may lead to increased sales and hence better profit margins.
 
 # SUMMARY
 
--With the data provided it is possible to know the viewers preferences by analysing the viewers ratings. The data also helps analyse the profits and losses made by the movie thereby we are able to tell whether it worth venturing into the movie production. By the end of the analysis we have been able to tell which is the best movie genre to start with and what was the profits made by the best selling movie. It is a field worth the trial.
+- With the data provided it is possible to know the viewers preferences by analysing the viewers ratings. The data also helps analyse the profits and losses made by the movie thereby we are able to tell whether it worth venturing into the movie production. By the end of the analysis we have been able to tell which is the best movie genre to start with and what was the profits made by the best selling movie. It is a field worth the trial.
